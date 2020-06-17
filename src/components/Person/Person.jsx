@@ -1,2 +1,2 @@
 // export const Person = ({ person }) => ();
-                                                                                                                          
+                                                                                                                           
