@@ -15,4 +15,4 @@ describe('Page', () => {
     cy.get('.Person__name').eq(2).should('have.text', 'My name is Alex');
   });
 });
-                                                                                                                                      
+                                                                                                                                       
